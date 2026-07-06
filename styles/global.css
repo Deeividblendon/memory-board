@@ -10,6 +10,12 @@
   --grey-color: #6d676e;
   --black-color: #1b1b1e;
   --red-color: #96031a;
+
+  --font-family: "Poppins", sans-serif;
+  --text-lg: bold 32px/125% var(--font-family);
+  --text-md: regular 16px/170% var(--font-family);
+  --text-sm: 12px/170% var(--font-family);
+  --text: ;
 }
 
 h1 {
