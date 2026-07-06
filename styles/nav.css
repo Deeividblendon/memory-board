@@ -12,11 +12,12 @@ nav ul {
   align-items: center;
   gap: 24px;
   padding-block: 8px;
+  font: 16px/80% var(--font-family);
 }
 
 nav ul li:first-child img {
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
 }
 
 nav ul li:last-child img {
