@@ -3,3 +3,15 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+:root {
+  --orange-color: #faa916;
+  --white-color: #fbfffe;
+  --grey-color: #6d676e;
+  --black-color: #1b1b1e;
+  --red-color: #96031a;
+}
+
+h1 {
+  color: var(--black-color);
+}
